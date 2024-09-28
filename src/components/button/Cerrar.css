@@ -1,0 +1,14 @@
+.Cerrar {
+    padding: 10px 20px;
+    background-color: #df712de7;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .Cerrar:hover {
+    background-color: #e5533d;
+  }
+  
